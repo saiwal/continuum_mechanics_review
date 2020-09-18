@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+	{% block content %}
+
+
+	{% endblock %}
+
+{% block sidebar %}
+    {% for a in authors %}
+    {{ a.author }}
+    {% endfor %}
+{% endblock %}
