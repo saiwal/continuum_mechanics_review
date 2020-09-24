@@ -7,6 +7,6 @@ Clone/fork this repository so that you have a version of your own. The content i
 You may also suggest edits, improvements in other areas.
 
 # Todo
-[] Add index page
-[] Add author page template
-[] setup contact information for authors and admin.
+- [  ] Add index page
+- [  ] Add author page template
+- [  ] setup contact information for authors and admin.
