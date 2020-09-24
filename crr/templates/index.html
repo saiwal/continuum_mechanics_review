@@ -6,7 +6,8 @@
 	{% endblock %}
 
 {% block sidebar %}
-    {% for a in authors %}
-    {{ a.author }}
+<br><h5>Browse by Authors:</h5>    
+    {% for a,art in authors %}
+    <a href="{{ SITEURL }}/{{ a.url }}">{{ a }}</a>
     {% endfor %}
 {% endblock %}

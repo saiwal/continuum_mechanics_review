@@ -1,6 +1,6 @@
 Title: About this blog
 Date: 15 sept 2020
-status: draft
+Author: Admin
 
 Welcome dear reader. This is a shared blog made for informal discussions about current research happening in the field of continuum mechanics. While publishing journals papers is an effective way to communicate latest reseach to the public there is a need to have an informal forum here people can voice their opinions, findings, interests with the community. This is meant to be a fun participatory activity among us enthusiasts. 
 
@@ -14,8 +14,13 @@ There are two branches, master and gh-pages. 'master' branch contains the source
 ## What should I write about?
 Feel free to voice your opinion, ideas or call for collaborations via this platform. There are no strict rules other than good etiquettes. Plagiarism should be avoided, if you wish to share someone elses work make sure to cite them in your article.
 
+This post will be updated periodically.
+
 ## References
 
 * Pelican tutorials:
-* Working with git tutorials:
+    * <https://docs.getpelican.com/en/stable/> 
+* Working with git tutorials: 
+    * <https://learngitbranching.js.org/>
+    * <https://www.youtube.com/watch?v=RGOj5yH7evk>
 * Working with Commandline(Linux):
