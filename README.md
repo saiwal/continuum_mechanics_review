@@ -8,6 +8,8 @@ You may also suggest edits, improvements in other areas.
 
 # Todo
 
-- [ ] Add index page
-- [ ] Add author page template
+- [x] Add index page
+- [x] Add author page template
 - [ ] setup contact information for authors and admin.
+- [ ] set default representative image for posts.
+- [ ] set up contact page.

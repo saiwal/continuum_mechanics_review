@@ -18,9 +18,12 @@ This post will be updated periodically.
 
 ## References
 
-* Pelican tutorials:
+1. Pelican tutorials:
     * <https://docs.getpelican.com/en/stable/> 
-* Working with git tutorials: 
+2. Markdown cheatsheet:
+    * <https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf>  
+3. Working with git tutorials: 
     * <https://learngitbranching.js.org/>
     * <https://www.youtube.com/watch?v=RGOj5yH7evk>
-* Working with Commandline(Linux):
+4. Working with Commandline(Linux):
+    * [The Linux Command Line Ultimate Tutorial](https://www.youtube.com/watch?v=px8D72loRVg&list=PLSmXPSsgkZLuJKJhvL1U384aHesbVDekO)

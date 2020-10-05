@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'admin'
 SITENAME = 'Continuum Mechanics Review'
 SITEURL = ''
-
+SITE_DESCRIPTION = 'Continuum Mechanics Review is a public blog for sharing research, opinions, reviews and other relevant content related tot he field.'
 PATH = 'content'
 
 TIMEZONE = 'Europe/Paris'
@@ -38,4 +38,6 @@ DEFAULT_PAGINATION = 10
 
 # THEME
 THEME = 'crr'
-BOOTSWATCH = 'lux'
+BOOTSWATCH = 'yeti'
+
+#PLUGINS = ['just_table',]

@@ -9,9 +9,13 @@ with the commandline and git is essential. This also helps a researcher working 
 &lt;p&gt;Feel free to voice your opinion, ideas or call for collaborations via this platform. There are no strict rules other than good etiquettes. Plagiarism should be avoided, if you wish to share someone elses work make sure to cite them in your article.&lt;/p&gt;
 &lt;p&gt;This post will be updated periodically.&lt;/p&gt;
 &lt;h2&gt;References&lt;/h2&gt;
-&lt;ul&gt;
+&lt;ol&gt;
 &lt;li&gt;Pelican tutorials:&lt;ul&gt;
 &lt;li&gt;&lt;a href="https://docs.getpelican.com/en/stable/"&gt;https://docs.getpelican.com/en/stable/&lt;/a&gt; &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Markdown cheatsheet:&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf"&gt;https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf&lt;/a&gt;  &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Working with git tutorials: &lt;ul&gt;
@@ -19,5 +23,8 @@ with the commandline and git is essential. This also helps a researcher working 
 &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=RGOj5yH7evk"&gt;https://www.youtube.com/watch?v=RGOj5yH7evk&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Working with Commandline(Linux):&lt;/li&gt;
-&lt;/ul&gt;</content><category term="misc"></category></entry></feed>
+&lt;li&gt;Working with Commandline(Linux):&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=px8D72loRVg&amp;amp;list=PLSmXPSsgkZLuJKJhvL1U384aHesbVDekO"&gt;The Linux Command Line Ultimate Tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</content><category term="misc"></category></entry></feed>
