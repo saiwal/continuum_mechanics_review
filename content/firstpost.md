@@ -9,10 +9,20 @@ The website along with the source is available for everyone on the github [page]
 with the commandline and git is essential. This also helps a researcher working inthis field since a lot of collaboration and coding is often required. If someone wishes to brush up their skills there are some good tutorials available on youtube. Some links would be recommended in the references.
 
 ## About the repository
-There are two branches, master and gh-pages. 'master' branch contains the source files of the blog, i.e. the content, config files, and the generated output. Once generated the website is uploaded to the 'gh-pages' branch. Only master branch need to be cloned to contribute. If you wish to test the website, create a local branch for testing purposes so that no pull requests are sent for files other than those in 'content'.
+There are two branches, master and gh-pages. 
+
+* 'master' branch contains the source files of the blog, i.e. the content, config files, and the generated output. 
+* Once generated from the source, the website is uploaded to the 'gh-pages' branch. 
+
+Only master branch need to be cloned to contribute. If you wish to test the website, create a local branch for testing purposes so that no pull requests are sent for files other than those in 'content'.
 
 ## What should I write about?
-Feel free to voice your opinion, ideas or call for collaborations via this platform. There are no strict rules other than good etiquettes. Plagiarism should be avoided, if you wish to share someone elses work make sure to cite them in your article.
+Feel free to voice your opinion, ideas or call for collaborations via this platform. There are no strict rules other than good etiquettes. Plagiarism should be avoided, if you wish to share someone elses work make sure to cite them in your article. Some typical categories you can write about can be:
+
+* book reviews
+* research paper review
+* call for discussion on a topic
+
 
 This post will be updated periodically.
 
